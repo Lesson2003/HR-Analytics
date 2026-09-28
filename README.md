@@ -1,6 +1,6 @@
 # HR Analytics Dashboard | Power BI
 
-![HR Analytics Dashboard](Screenshot 2026-09-28 124527.png)
+![HR Analytics Dashboard](upload-hr.png)
 
 ## Project Overview
 
